@@ -1,3 +1,7 @@
 .env
 news/
 __pycache__/
+summary_temp_0_1.txt
+summary_temp_0_7.txt
+summary_temp_1_0.txt
+observations.md
