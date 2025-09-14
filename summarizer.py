@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 summarizer.py
 - Reads article text (default: article.txt)
